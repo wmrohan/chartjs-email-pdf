@@ -1,0 +1,21 @@
+{
+  "name": "chartjs-email-pdf",
+  "version": "1.0.0",
+  "description": "chartjs-email-pdf",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm  init -y"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
